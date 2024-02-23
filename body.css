@@ -1,0 +1,49 @@
+.navbar-custom {
+    background-color: #505050; /* Set background color */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Add shadow */
+    color: white;
+  }
+
+  .navbar-brand-custom {
+    color: #fff; /* Set text color for brand */
+    font-weight: bold; /* Add font weight */
+    font-size: 1.5rem; /* Increase font size */
+  }
+
+  .navbar-nav-custom .nav-link {
+    color: #fff; /* Set text color for links */
+  }
+
+  .navbar-nav-custom .nav-link:hover {
+    color: #ddd; /* Change text color on hover */
+  }
+
+  .navbar-nav-custom .dropdown-menu {
+    background-color: #222; /* Set background color for dropdown menu */
+    border: none; /* Remove border */
+  }
+
+  .navbar-nav-custom .dropdown-item {
+    color: #fff; /* Set text color for dropdown items */
+  }
+
+  .navbar-nav-custom .dropdown-item:hover {
+    background-color: #333; /* Change background color on hover */
+  }
+
+  .form-control-custom {
+    background-color: #333; /* Set background color for search input */
+    color: #fff; /* Set text color for search input */
+    border-color: #444; /* Set border color */
+  }
+
+  .btn-custom {
+    background-color: #007bff; /* Set background color for button */
+    border-color: #007bff; /* Set border color */
+    color: #fff; /* Set text color */
+  }
+
+  .btn-custom:hover {
+    background-color: #0056b3; /* Change background color on hover */
+    border-color: #0056b3; /* Change border color on hover */
+  }
